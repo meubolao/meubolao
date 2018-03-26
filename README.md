@@ -1,30 +1,30 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:  Meu Bolão
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+Ian Zanon Pessoa:ianzanon2@gmail.com<br>
+Lucas Emanuel Pereira das Posses:posses.lucas@hotmail.com<br>
 ...
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
+Este documento contém a especificação do projeto do banco de dados Meu Bolão
 <br>e motivação da escolha realizada. <br>
 
-> A empresa "Devcom Projetos" visa colaborar com desenvolvimento de projetos para uma sociedade melhor. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
+> O projeto "Meu Bolão" se fundamenta em um aplicativo que será responsivo, podendo ser aberto em qualquer aparelho e tem como intuito facilitar as interações envolvendo jogos de apostas, e entreter os torcedores durante a Copa do Mundo, e outros eventos, gerando um clima de competição saudavel. Surgiu como uma forma de agilizar os jogos de apostas já existentes, a fim de trazer mais praticidade e organização. O projeto não possui fins lucrativos, e qualquer tipo de envolvimento com bens financeiros é de total responsabilidade dos usuários.
  
 
 ### 3.MINI-MUNDO Novo<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
+Descrever o mini-mundo! <br>
 Entrevista com o usuário e identificação dos requisitos.<br>
 Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
 cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
 gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes. 
+> O sistema "Meu Bolão" conterá as informações aqui detalhadas. Contará com um sistema de registro e de login, onde o usuário poderá criar uma conta contendo Nome, E-mail, e Senha, tendo que concordar com um termo de compromisso que garante que caso o usuario deseje relacionar bens financeiros com as apostas, será de livre e espontanea vontade, e sem envolvimento do aplicativo. O usuário poderá criar uma sala de apostas (publica/privada), definindo o tipo de aposta, um nome pra sala, a senha se for uma sala privada e terá a permissão para se adentrar em qualquer sala, basta pesquisar na lista de salas disponíveis. Após ter criado uma sala, o dono pode sincronizar com o Facebook. Quando um usuário ganhar uma aposta, receberá pontos. O sistema de pontuações funcionará da seguinte forma: todos que criarem uma conta iniciarão com 3 pontos e a cada aposta ganha receberá mais um ponto; os pontos podem ser gastos para fazer mais de uma aposta dentro de uma sala, em um tempo determinado pelo dono da sala; quando houver empates, todos que acertaram receberão pontos e, em caso de ninguém acertar,os pontos serão acumulados para a próxima rodada de apostas nessa sala. Haverá um campo de bate-papos entre todos os seus participantes. O resultado do bolão será digitado pelo dono da aposta em um campo chamado resultado após o término do jogo ou outro evento. O usuário também poderá ter um feedback de quais salas de apostas ele já participou, e está participando, já criou ,quantas ganhou e a relação entre quantos bolões ele já participou e quantos ele já ganhou.
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
