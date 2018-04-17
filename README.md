@@ -13,7 +13,7 @@ Lucas Emanuel Pereira das Posses:posses.lucas@hotmail.com<br>
 Este documento contém a especificação do projeto do banco de dados Meu Bolão
 <br>e motivação da escolha realizada. <br>
 
-> O projeto "Meu Bolão" se fundamenta em um aplicativo que será responsivo, podendo ser aberto em qualquer aparelho e tem como intuito facilitar as interações envolvendo jogos de apostas, e entreter os torcedores durante a Copa do Mundo, e outros eventos, gerando um clima de competição saudavel. Surgiu como uma forma de agilizar os jogos de apostas já existentes, a fim de trazer mais praticidade e organização. O projeto não possui fins lucrativos, e qualquer tipo de envolvimento com bens financeiros é de total responsabilidade dos usuários.
+> O projeto "Meu Bolão" se fundamenta em um aplicativo que será responsivo, podendo ser aberto em qualquer aparelho. Tem como intuito facilitar as interações envolvendo jogos de apostas  e entreter os usuários durante premiações, gerando um clima de competição saudavel. Surgiu como uma forma de agilizar os jogos de apostas já existentes, a fim de trazer mais praticidade e organização. O projeto não possui fins lucrativos, e qualquer tipo de envolvimento com bens financeiros é de total responsabilidade dos usuários.
  
 
 ### 3.MINI-MUNDO Novo<br>
