@@ -24,7 +24,7 @@ Descrição textual das regras de negócio definidas como um  subconjunto do mun
 cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
 gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 
-> O aplicativo "Meu Bolão" surgiu como uma forma de entretenimento no momento em que várias pessoas no mundo estão cada vez mais ligadas aos filmes, séries e premiações musicais. Visto que as premiações 
+> O aplicativo "Meu Bolão" surgiu como uma forma de entretenimento no momento em que várias pessoas no mundo estão cada vez mais ligadas aos filmes, séries e premiações musicais. Nas premiações de filmes podem ter categorias como Oscar, Cannes
 
 
 
