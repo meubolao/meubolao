@@ -24,8 +24,8 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discipint/trabalho01/blob/master/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
+![Alt text](https://github.com/meubolao/meubolao/blob/master/Bolao_Balsamiq.pdf)
+![Arquivo PDF do Protótipo Balsamiq feito para o Bolão](https://github.com/meubolao/meubolao/blob/master/Bolao_Balsamiq.pdf)
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
