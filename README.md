@@ -78,6 +78,16 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
+1) Tabela Usuário: Optamos por fazer um auto-relacionamento na tabela usuário, pois um usuário pode ter vários amigos que também são usuários do sistema.
+2) Tabela ExperIência: Optamos por recompensar cada usuário na sala de apostas com uma certa quantidade de XP, pois se mostrou a melhor opção  entre recompensar por meio de pontos e recompensar por meio de XP. 
+3) Tabela Experiência:Decidimos não tirar pontos de usuários que fica nos últimos lugares do ranking, pois nosso objetivo não é punir e sim trazer um aplicativo de competição saudável.
+4) Tabela Sala da premiação: Decidimos por estabelecer um nível de segurança em cada sala, pois assim cada jogador poderia manter sua privacidade protegida e não ser vítima de um golpe de alguém que não conhece.
+5) Tabela Audiovisual: Decidimos criar uma tabela audiovisual, onde reunirá todos os audiovisuais , seja eles filmes, curtas ou longos, pois o sistema fica melhor organizado.
+6) Tabela Pessoa: Decidimos criar uma tabela pessoa, onde reunirá todas as pessoas indicadas da premiação , seja elas roteiristas, cantores, diretores ,atores, etc., pois o sistema ficaria melhor organizado e seria possível fazer uma relação com a tabela Audiovisual em que uniria o nome da pessoa com o respectivo audiovisual que esteve presente ajudando de alguma forma.
+7) Campo Categoria:  Decidimos sugerir todas as categorias de uma premiação para o usuário, pois assim ele não gastaria tempo e agilizaria a criação de sua sala de aposta.
+
+
+  
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
