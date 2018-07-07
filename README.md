@@ -38,16 +38,16 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 10 principais relatórios que poderão ser obtidos por meio do sistema proposto!
-    1) O sistema exibirá qual indicado numa premiação é a aposta do usuário para vencer determinada categoria.
-    2) O sistema exibirá uma lista de usuários organizada por nível que um usuário está jogando, funcionando como um ranking entre jogadores mais antigos e mais velhos.
-    3) Caso o usuário deseje conectar/ fazer login na sua conta do bolão com o Facebook, todos os dados como: nome, e-mail e senha serão herdados dessa rede social.
-    4) O sistema exibirá informações pertinente as apostas de cada usuário, como: número de bolões que participou, número de bolões que ganhou e uma relação entre o número de bolões que ganhou e que participou.
-    5) O sistema exibirá, para cada usuário, quais salas de apostas estão disponíveis para acessar.
-    6) Em cada sala de aposta, os usuários participantes terão direito a um chat integrado com o Facebook Messenger, no qual poderão se comunicar durante o tempo da premiação.
-    7) Quando um usuário desejar criar uma sala de uma determinada premiação, o sistema indicará sugestões das categorias dessa premiação para que o dono da sala de apostas possa incluir em seu bolão. Exemplo: Se a premiação escolhida for o Oscar, o sistema exibirá todas as categorias pertinentes ao Oscar; caso for o Grammy Awards, o sistema exibirá todas as categorias do Grammy.
-    8) Em cada sala de aposta, os jogadores terão direito a visualizar as apostas dos outros participantes dessa sala.
-    9) Após o término da premiação, o sistema exibirá dentre as apostas presentes na sala, qual foi o usuário que mais pontuou, que mais acertou quem venceria em cada categoria por meio de uma notificação a todos os participantes da sala.
-    10)  A experiência (XP) adquirida em cada sala de apostas será convertido para uma barra de progresso, indicando qual o nível do usuário no sistema. Será exibido a todos os usuários e seus amigos.Por exemplo: Se numa determinada premiação o usuário acertou 15 das 25 categorias, ele receberá uma experiência pré estabelecida à porcentagem de acertos em relação ao total de categorias: 2 XP caso acertado 4% (equivalente a um acerto). 10 XP caso acertado 100%.
+   1) O sistema exibirá qual indicado numa premiação é a aposta do usuário para vencer determinada categoria.
+   2) O sistema exibirá uma lista de usuários organizada por nível que um usuário está jogando, funcionando como um ranking entre jogadores mais antigos e mais velhos.
+   3) Caso o usuário deseje conectar/ fazer login na sua conta do bolão com o Facebook, todos os dados como: nome, e-mail e senha serão herdados dessa rede social.
+   4) O sistema exibirá informações pertinente as apostas de cada usuário, como: número de bolões que participou, número de bolões que ganhou e uma relação entre o número de bolões que ganhou e que participou.
+   5) O sistema exibirá, para cada usuário, quais salas de apostas estão disponíveis para acessar.
+   6) Em cada sala de aposta, os usuários participantes terão direito a um chat integrado com o Facebook Messenger, no qual poderão se comunicar durante o tempo da premiação.
+   7) Quando um usuário desejar criar uma sala de uma determinada premiação, o sistema indicará sugestões das categorias dessa premiação para que o dono da sala de apostas possa incluir em seu bolão. Exemplo: Se a premiação escolhida for o Oscar, o sistema exibirá todas as categorias pertinentes ao Oscar; caso for o Grammy Awards, o sistema exibirá todas as categorias do Grammy.
+   8) Em cada sala de aposta, os jogadores terão direito a visualizar as apostas dos outros participantes dessa sala.
+   9) Após o término da premiação, o sistema exibirá dentre as apostas presentes na sala, qual foi o usuário que mais pontuou, que mais acertou quem venceria em cada categoria por meio de uma notificação a todos os participantes da sala.
+   10)  A experiência (XP) adquirida em cada sala de apostas será convertido para uma barra de progresso, indicando qual o nível do usuário no sistema. Será exibido a todos os usuários e seus amigos.Por exemplo: Se numa determinada premiação o usuário acertou 15 das 25 categorias, ele receberá uma experiência pré estabelecida à porcentagem de acertos em relação ao total de categorias: 2 XP caso acertado 4% (equivalente a um acerto). 10 XP caso acertado 100%.
   
 >## Marco de Entrega 01 em: (24/03/2018)<br>
 
