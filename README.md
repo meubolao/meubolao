@@ -92,9 +92,38 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    
+    USUARIO: Tabela que armazena as informações relativas ao usuario<br>
+    Codsuario: Campo que armazena um código responsavel por representar aquele usuário no banco de dados.
+    NomUsuario: Campo que armazena o nome de cada usuário do sistema.
+    NomSenha: Campo que armazena uma senha de acesso para cada usuario do sistema.
+    NomEmail: Campo que armazzena o e=mail de cadastro de cada usuario do sistema.
+    
+    
+    EXPERIENCIA: Tabela que armazena as informações relativas a experiencia dos usuario.
+    IndExper: Campo que armaena a quantidade experiencia referente a determinado usuario.
+    
+    SALADEPREMIAÇÃO: Tabela que armazena as informações relativas às salas de premiação.
+    IdSala: Campo que armazena um Id de identificação para cada sala do sistema.
+    DatInicPrem: Campo referente a armazenar a data de inicio de cada sala do sistema
+    DatFimPrem: Campo referente a armazenar a data de fim de cada sala do sistema
+    HorDuracaoPrem: Campo referente a armazenar a duração de cada sala do sistema
+    NomSenhaPrem: Campo referente a armazenar a senha de cada sala do sistema
+    ValSegurPrem: Campo referente a armazenar o tipo de segurança de cada sala do sistema
+    NomSalaPrem: Campo referente a armazenar o nome de cada sala do sistema
+    NomDonoSalPrem: Campo referente a armazenar o dono de cada sala do sistema
+    ResultSalPrem: Campo referente a armazenar o resultado de cada sala do sistema
+    
+    Audiovisual: Tabela que referente as informações relativas aos audiovisuais.
+    IdAdv: Campo que armazena o id de identificação para cada audiovisual do sistema
+    NomGenero: Campo que armazena o genero de cada audiovisual no sistema
+    NomNomeAdv: Campo que armazena o nome de cada audiovisual no sistema
+    DscAdv: Campo que armazena a descrição de cada audiovisual no sistema
+    
+    Pessoa: Tabela que armazena as informações relativas às pessoas indicadas a premiação.
+    idPessoa: Campo que armazena um valor de identificação para cada pessoa indicada do sistema.
+    NomPessoa: Campo que armazena o nome de cada pessoa indicada do sistema.
+   
 
 >## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
